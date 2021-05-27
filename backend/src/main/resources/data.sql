@@ -5,7 +5,7 @@ insert into Store values (4,'G.B.S Enclave, Thirumalgherry, Telangana','Grill 9'
 insert into Store values (5,'Supariwala Bldg, Opp Kem Hospital Main Gate, Mumbai','Mozarella pizza','3.9', 'open');
 insert into Store values (6,'Hyderabad, Telangana','5th Avenue','4.9', 'close');
 
-insert into Item values (1, '50g of pure banana fry', 'Banana chips', '100', 1);
+insert into Item values (1, '50g of pure banan fry', 'Banana chips', '100', 1);
 insert into Item values (2, 'panner filled pizza', 'Paneer pizza', '175', 1);
 insert into Item values (4, 'Made of pure Paneer', 'Paneer tikka', '239', 1);
 insert into Item values (5, 'Veggie! ', 'Veg Pizza', '160', 1);
